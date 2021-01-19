@@ -2,5 +2,5 @@
 
 <p>
     Basecally, I need plot lat, long coords from farms. At first, it is necessary to iterate over xml files <br>
-    and then store informatinos in array of dicts. Then, I use write a new csv file.
+    and then store information in array of dicts. Then, I use write a new csv file.
 </p>
